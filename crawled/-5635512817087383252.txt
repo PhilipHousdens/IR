@@ -1,0 +1,1 @@
+{"url": "https://www.facebook.com/privacy/policy/", "title": "นโยบายความเป็นส่วนตัวของ Meta - วิธีที่ Meta เก็บและใช้ข้อมูลผู้ใช้", "text": "", "url_lists": []}

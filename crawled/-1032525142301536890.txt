@@ -1,0 +1,1 @@
+{"url": "https://portal.cmu.ac.th/", "title": "ITSC Services", "text": "ITSC {{search.type}} services           Search ...   All  Students  Staff Sort by : A-Z  Popular           {{app.nameEng}}  {{app.nameThai}}      Click {{app.count}}            Information Technology Service Center, Chiang Mai University, tel. 0-5394-3827  onestop@cmu.ac.th", "url_lists": []}
